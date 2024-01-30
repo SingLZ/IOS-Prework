@@ -2,7 +2,7 @@
 
 ### App Description
 
-`TODO://` Add app description
+An introduction app that asks for the user's first and last name and the university that they go to. It also has an additional pet counter and a switch to determine if user wants more pets. There are two buttons, one that changes background color and one that generate an introduction for the user. 
 
 ### App Walk-though
 
